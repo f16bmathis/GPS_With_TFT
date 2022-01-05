@@ -88,7 +88,7 @@ void loop(){
 
     gps.f_speed_mph();             // SPEED!!!!!
     tft.println("SPEED    ");
-    tft.print(gps.speed.mph,0);
+   // tft.print(gps.speed.mph,0);
 
 
     
